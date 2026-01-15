@@ -13,7 +13,7 @@ kks = pykakasi.kakasi()
 # --- ВАЖНО: Замените на СВОЙ реальный Telegram ID ---
 OWNER_ID = -5226545880
 
-TOKEN = "7253188204:AAFFPO7Nsh8RDlFvMxOV5558Lw_Plv5yUZ8"
+TOKEN = ""
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
